@@ -1,0 +1,23 @@
+# Python Virtual Environment
+env/
+.env
+
+# Bytecode & Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# Database Migrations
+alembic/versions/
+
+# IDE Settings (Optional)
+.vscode/
+.idea/
+*.iml
+
+# Database Files (if using SQLite)
+*.db
+*.sqlite3
