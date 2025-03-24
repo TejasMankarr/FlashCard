@@ -21,3 +21,6 @@ alembic/versions/
 # Database Files (if using SQLite)
 *.db
 *.sqlite3
+
+*.xlsx
+*.docx
